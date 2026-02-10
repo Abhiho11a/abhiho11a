@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there, I'm Abhi</h1>
-<h3 align="center">Full-Stack Dev | DSA Grinder | Trying not to break production 😭🔥</h3>
+<h3 align="center">Full-Stack Dev | DSA </h3>
 
 ---
 
