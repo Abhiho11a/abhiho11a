@@ -56,7 +56,7 @@ Secure password manager with clean UI and safe storage.
 
 ## 🌐 Connect With Me  
 <p>
-  <a href="https://www.linkedin.com/in/abhishek-holla-cs01"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-holla-cs01" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
