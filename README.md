@@ -28,21 +28,14 @@
 ### ⭐ DSA Tracker  
 A complete tracking system for coding progress, questions, stats, and grinding streaks.  
 ➡️ **Built with:** JS, LocalStorage / Supabase version coming 👀  
-➡️ GitHub: *add your repo link*
+➡️ GitHub: [add your repo link](https://github.com/Abhiho11a/Dsa-Tracker-Project.git)
 
 ---
 
 ### 🔐 Password Locker  
 Secure password manager with clean UI and safe storage.  
 ➡️ **Built with:** React, Tailwind, Encryption logic  
-➡️ GitHub: *add your repo link*
-
----
-
-### 🐳 Node + Docker + Supabase Project  
-DevOps-friendly backend with containers + cloud DB.  
-➡️ **Built with:** Node.js, Docker, Supabase  
-➡️ GitHub: *add your repo link*
+➡️ GitHub: [add your repo link](https://github.com/Abhiho11a/-Web-Dev-Projects-/tree/main/React%20Password%20Vault)
 
 ---
 
