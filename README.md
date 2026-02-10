@@ -8,7 +8,6 @@
 - 🧠 DSA + System Design prep for MAANG/FAANG grind  
 - 🐍 Currently loving Node.js, Docker & Supabase  
 - 🤝 Open to collaborating on cool projects  
-- 😭 Debugging since childhood (mostly my life tho)
 
 ---
 
